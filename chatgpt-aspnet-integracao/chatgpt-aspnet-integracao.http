@@ -1,0 +1,6 @@
+@chatgpt_aspnet_integracao_HostAddress = http://localhost:5180
+
+GET {{chatgpt_aspnet_integracao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

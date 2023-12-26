@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YDv4aDMm2RHs0iLNwbXIOX4xVuqqU/uphE0ewgHH+YM=",
+  "Source": "chatgpt-aspnet-integracao",
+  "BasePath": "_content/chatgpt-aspnet-integracao",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
