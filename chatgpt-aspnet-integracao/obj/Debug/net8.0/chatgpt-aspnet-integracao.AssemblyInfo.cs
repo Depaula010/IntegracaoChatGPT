@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("79a3edd0-2092-40a2-a04d-dcb46d5ca9ed")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("chatgpt-aspnet-integracao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5db4eb1eea0d335beab30ed4260ac26d4d4c36c")]
 [assembly: System.Reflection.AssemblyProductAttribute("chatgpt-aspnet-integracao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chatgpt-aspnet-integracao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

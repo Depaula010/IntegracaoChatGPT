@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "je2/eNCGf42kPYhrNyV6wyJohciYxVw0PIjrmZsbtmROtzDK4GAtr4M9qri7744BKyomcAQZaKOLtXxn36YlEg==",
+  "dgSpecHash": "Q65n1GNbAx/JDOFKTARfdHLJRQEZua8ItXrCrVlRb1iRa6nss1W1bbRCUufjvsNu5bdddRHyatGmYEpz+9kgAg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\chatgpt-aspnet-integracao\\chatgpt-aspnet-integracao\\chatgpt-aspnet-integracao.csproj",
+  "projectFilePath": "C:\\Projetos\\IntegracaoChatGPT\\chatgpt-aspnet-integracao\\chatgpt-aspnet-integracao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Depaula\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Depaula\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
